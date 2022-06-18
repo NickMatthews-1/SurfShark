@@ -1,7 +1,11 @@
 # SurfShark
 
 I am making this repository for the making the manual setup of Surfshark VPN via OpenVPN even easier then it already is.
-Of course instead of reading this you could just download my setup script and use that instead.
+Of course instead of reading this you could just download my setup script and use that instead. This will work on any Debian based operating system.
+
+### Step Zero
+If you are downloading the script you need to do the following ```chmod +x surfsetup.sh```
+
 ### Step One
 Open a terminal
 
